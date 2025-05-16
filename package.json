@@ -1,0 +1,12 @@
+{
+  "name": "win-geometry",
+  "version": "1.0.0",
+  "description": "Get window geometry for a window title using a native executable",
+  "main": "index.js",
+  "keywords": ["windows", "geometry", "position", "size", "native", "child_process"],
+  "author": "Nasir Shahbaz",
+  "license": "MIT",
+  "bin": {
+    "wingeometry": "./index.js"
+  }
+}
