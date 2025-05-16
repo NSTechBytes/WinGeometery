@@ -132,7 +132,6 @@ dist
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
 [Rr]eleases/
 x64/
 x86/
@@ -143,6 +142,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-
+bin/WinGeometry
+WinGeometry.pdb
 # Visual Studio 2015/2017 cache/options directory
 .vs/

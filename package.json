@@ -1,11 +1,19 @@
 {
   "name": "win-geometry",
-  "version": "1.0.0",
-  "description": "Get window geometry for a window title using a native executable",
+  "version": "1.1.0",
+  "description": "Get window geometry for a window title",
   "main": "index.js",
   "keywords": ["windows", "geometry", "position", "size", "native", "child_process"],
   "author": "Nasir Shahbaz",
   "license": "MIT",
+  "homepage": "https://github.com/NSTechBytes/WinGeometery#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NSTechBytes/WinGeometery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NSTechBytes/WinGeometery/issues"
+  },
   "bin": {
     "wingeometry": "./index.js"
   }
